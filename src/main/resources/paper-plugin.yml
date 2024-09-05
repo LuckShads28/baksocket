@@ -1,0 +1,4 @@
+name: baksocket
+version: '1.0-SNAPSHOT'
+main: org.luckshads.baksocket.Baksocket
+api-version: '1.20'
